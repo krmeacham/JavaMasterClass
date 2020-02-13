@@ -1,20 +1,22 @@
 # JavaMasterClass
-All coding projects related to the completion of a Java Master Class. 
-This is an extensive, 75 hour class with multiple projects to utlize and comprehend
-Java and its Object Oriented properties. 
-I'll be learning: 
-Expressions
-Control Flow
-Classes, Constructors, and Inheritance
-Composition, Encapsulation, Polymorphism
-Arrys, inbuilt Lists, Autoboxing, and unboxing
-Inner and Abstract Classes and Interfaces
-Generics
-Collections
-JavaFX
-Input and Output
-Concurrency and Database connectivity
-Debugging and Unit testing
-Lambda and Regular expressions
-Java Network Programming
-Module Systems
+<h2>All coding projects related to the completion of a Java Master Class.</h2>
+<p>This is an extensive, 75 hour class with multiple projects to utlize and comprehend
+Java and its Object Oriented properties.</p>
+I'll be learning:
+<ul>
+  <li>Expressions</li>
+<li>Control Flow</li>
+<li>Classes, Constructors, and Inheritance</li>
+<li>Composition, Encapsulation, Polymorphism</li>
+<li>Arrys, inbuilt Lists, Autoboxing, and unboxing</li>
+<li>Inner and Abstract Classes and Interfaces</li>
+<li>Generics</li>
+<li>Collections</li>
+<li>JavaFX</li>
+<li>Input and Output</li>
+<li>Concurrency and Database connectivity</li>
+<li>Debugging and Unit testing</li>
+<li>Lambda and Regular expressions</li>
+<li>Java Network Programming</li>
+<li>Module Systems</li>
+</ul>
